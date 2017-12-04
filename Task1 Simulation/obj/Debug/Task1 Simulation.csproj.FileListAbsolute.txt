@@ -1,0 +1,13 @@
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1_Simulation.InterArriavalTimeDForm.resources
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1_Simulation.Properties.Resources.resources
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1_Simulation.ServiceTimeDistributionForm.resources
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1 Simulation.csproj.GenerateResource.Cache
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\bin\Debug\Task1 Simulation.exe.config
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\bin\Debug\Task1 Simulation.exe
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\bin\Debug\Task1 Simulation.pdb
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\bin\Debug\MultiChannelQueueModels.dll
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\bin\Debug\MultiChannelQueueModels.pdb
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1 Simulation.csprojResolveAssemblyReference.cache
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1 Simulation.exe
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1 Simulation.pdb
+C:\Users\yousef\Desktop\Task1 Simulation\Task1 Simulation\obj\Debug\Task1_Simulation.Results.resources
